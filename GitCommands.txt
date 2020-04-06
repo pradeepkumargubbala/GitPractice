@@ -1,0 +1,43 @@
+change directory in GIT
+cd C:/Users/SSTECH/Desktop/GITPractise
+
+to initialize .git empty repo
+git init
+
+to list files in folder
+ls
+
+to list all files including hidden folders
+ls -a
+
+To find files with relevant names in Folder
+ls -l RelaventFileName*
+'l stands for long format
+
+To Clear the screen
+Ctrl+l (or) Clear
+
+To Move the cursor to begining of the line
+ctrl+a
+
+To Move the cursor to end of the line
+ctrl+e
+
+To delete left part of an command line
+ctrl+k
+
+To delete right part of an command line
+ctrl+u
+
+If you want to remove tracking of file into GIT
+rm -rf .git
+
+To know the present working directory
+pwd
+
+To know the history of commits
+git log
+
+git log --oneline
+
+

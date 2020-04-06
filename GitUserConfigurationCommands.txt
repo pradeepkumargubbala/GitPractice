@@ -1,0 +1,4 @@
+Adding New User To GIT
+git config --global user.name "pradeep kumar"
+git config --global user.email "pradeepkumargubbala@gmail.com"
+git config --global --list
